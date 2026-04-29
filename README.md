@@ -1,6 +1,6 @@
 # Drawing Robot — Tremor Suppression Simulation
 
-**CPS_S MATH 453 Final Project**
+**CPS_S 483 Final Project**
 
 A Python simulation of a robotic drawing assistant that filters involuntary hand tremor using a Kalman filter, then replays the smoothed path on a 2-DOF planar robot arm.
 
